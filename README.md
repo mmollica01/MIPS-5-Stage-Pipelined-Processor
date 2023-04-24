@@ -8,6 +8,11 @@ Single Cycle and Pipelined 32-bit MIPS Processor implementation in VHDL using In
 
 _Note: This processor does **NOT** have forwarding support_
 
+# Performance Metrics
+- Maximum Clock Frequency = **122.73 MHz**
+- Setup Slack = **0.852 ns**
+- Hold Slack = **0.432 ns**
+
 # Project Organization
 - MIPS5.vhd --> Pipelined Implementation
 - SCP.vhd   --> Single Cycle Implementation
