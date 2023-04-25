@@ -80,3 +80,6 @@ Both implementations are in the same project file. To select each top-level enti
 - testbench_scp.vhd --> Testbench for Single Cycle Processor
 - TB_Board.vhd      --> Testbench for DE10-Lite demonstration
 - BCDto7.vhd        --> DE10-Lite 7-segment display entity
+
+# Acknowledgements
+Special thanks to Nidhay Patel for partnering on this project.
