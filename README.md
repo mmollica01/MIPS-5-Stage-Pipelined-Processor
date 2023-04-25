@@ -82,4 +82,4 @@ Both implementations are in the same project file. To select each top-level enti
 - BCDto7.vhd        --> DE10-Lite 7-segment display entity
 
 # Acknowledgements
-Special thanks to Nidhay Patel for partnering on this project.
+Special thanks to [Nidhay Patel](https://www.linkedin.com/in/nidhay-patel-38662223a/) for partnering on this project.
